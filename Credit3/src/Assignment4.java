@@ -1,5 +1,13 @@
 import java.util.Scanner;
+/*
+Program: $(Assignment4).java 		Data: $(4/28/2022)
 
+Author: Tarnpreet Chahal
+School: CHHS
+Course: Computer Science 10
+
+
+   */
 public class Assignment4 {
 
 	public static void main(String[] args) {
@@ -18,3 +26,8 @@ public class Assignment4 {
 	}
 
 }
+/*Screen Dump
+What is the diameter(inches) of your pizza?
+5
+Your total is $3.0 
+*/

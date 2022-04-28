@@ -1,5 +1,5 @@
 /*
- Program: $(MyInitials).java 		Data: $(4/12/2022)
+ Program: $(Assignment2).java 		Data: $(4/28/2022)
  
  Author: Tarnpreet Chahal
  School: CHHS
